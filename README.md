@@ -3,12 +3,7 @@
 This repository contains my internship tasks for the **AI/ML Engineering – Advanced Internship** program.  
 Each task demonstrates practical skills in data analysis, machine learning, and building end-to-end pipelines.
 
----
 
-## 📂 Repository Structure
-
-
----
 
 ## 📝 Task Descriptions
 
@@ -38,12 +33,6 @@ Each task demonstrates practical skills in data analysis, machine learning, and 
 - matplotlib, seaborn  
 - scikit-learn (Pipeline, ColumnTransformer, GridSearchCV)
 
----
-
-### 🔹 Task 3 – (Pending)
-Will be added later.
-
----
 
 ## 🚀 How to Run
 1. Open the notebook in **Google Colab** or Jupyter Notebook.
@@ -60,6 +49,3 @@ Will be added later.
 
 ---
 
-## 📌 Notes
-- Each task is self-contained in its respective folder.  
-- Future tasks (Task 3) will be added to this repository.  
